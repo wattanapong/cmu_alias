@@ -5,4 +5,5 @@
 - [ai1](http://ai1.wattanapong.com:3080/)
 
 # Dent Server
+- [ams](http://ams.wattanapong.com:9988/)
 - [ai1](http://ai1.wattanapong.com:9988)
